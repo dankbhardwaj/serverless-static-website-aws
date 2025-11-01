@@ -32,25 +32,17 @@ It’s globally distributed, fully secure with HTTPS, and requires no servers �
 
 
 
-\## 🖼️ Screenshots
+## 🖼️ Screenshots
 
+### 🪣 S3 Static Website Hosting
+![S3 Hosting](https://raw.githubusercontent.com/dankbhardwaj/serverless-static-website-aws/main/screenshots/s3-hosting.png)
 
+### 🌎 CloudFront Distribution Setup
+![CloudFront](https://raw.githubusercontent.com/dankbhardwaj/serverless-static-website-aws/main/screenshots/cloudfront-distribution.png)
 
-\### 🪣 S3 Static Website Hosting
+### 💻 Final Deployed Website
+![Website](https://raw.githubusercontent.com/dankbhardwaj/serverless-static-website-aws/main/screenshots/final-website.png)
 
-!\[S3 Hosting](screenshots/s3-hosting.png)
-
-
-
-\### 🌎 CloudFront Distribution Setup
-
-!\[CloudFront](screenshots/cloudfront-distribution.png)
-
-
-
-\### 💻 Final Deployed Website
-
-!\[Website](screenshots/final-website.png)
 
 
 
